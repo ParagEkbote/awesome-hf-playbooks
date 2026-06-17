@@ -1,4 +1,4 @@
-# HF Playbooks
+#  Awesome HF Playbooks
 
 This repository contains a collection of comprehensive playbooks and guides focused on advanced techniques in machine learning, particularly large language models (LLMs), training methodologies, distillation, evaluation, and synthetic data generation. These resources are curated from Hugging Face to provide practical insights for building and optimizing world-class AI models.
 

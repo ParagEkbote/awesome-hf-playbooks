@@ -1,6 +1,6 @@
 # HF Playbooks
 
-This repository contains a collection of comprehensive playbooks and guides focused on advanced techniques in machine learning, particularly large language models (LLMs), training methodologies, distillation, evaluation, and synthetic data generation. These resources are curated from Hugging Face and related AI research communities to provide practical insights for building and optimizing world-class AI models.
+This repository contains a collection of comprehensive playbooks and guides focused on advanced techniques in machine learning, particularly large language models (LLMs), training methodologies, distillation, evaluation, and synthetic data generation. These resources are curated from Hugging Face to provide practical insights for building and optimizing world-class AI models.
 
 ## Resources
 
@@ -10,7 +10,7 @@ A detailed guide on scaling large language models to ultrascale levels, covering
 
 ### 2. The Smol Training Playbook: The Secrets to Building World-Class LLMs
 **File:** `The Smol Training Playbook The secretes to Building World-class LLMs.pdf`  
-(Note: "secretes" appears to be a typo for "secrets" in the filename)  
+
 This playbook reveals the essential techniques and best practices for training high-quality, efficient small-to-medium language models that rival larger counterparts in performance.
 
 ### 3. Distilling 100B Models 40x Faster with TRL
@@ -33,14 +33,15 @@ This playbook delves into the creation and utilization of synthetic data for tra
 **File:** `unlocking-on-policy-distillation-for-any-model-family.pdf`  
 Provides insights into on-policy distillation methods that can be applied across different model architectures, enabling efficient knowledge transfer and model compression techniques.
 
-## Usage
+## Additional Resources
 
-These playbooks are provided as PDF documents for easy reading and reference. Each contains detailed explanations, code examples, and practical advice for implementing the described techniques.
+To view additional content, take a look at the following link: https://huggingface.co/collections/sergiopaniego/research-and-long-form-blog-posts
+
+## Usage
 
 To access any playbook:
 1. Navigate to the repository
-2. Click on the desired PDF file
-3. Download or view directly in your browser
+2. Download or view directly in your browser
 
 ## Contributing
 
@@ -48,8 +49,8 @@ If you have additional playbooks or updates to existing ones that would benefit 
 
 ## License
 
-Please refer to the original sources and publishers of these playbooks for licensing information. This repository is for educational and reference purposes.
+**Please refer to the original sources and publishers of these playbooks for licensing information. This repository is for educational and reference purposes only.**
 
 ## Acknowledgments
 
-These resources are compiled from various sources in the AI and machine learning community, with special thanks to Hugging Face for their contributions to open-source AI development.
+These resources are compiled from various sources in the Hugging Face community, with special thanks to Hugging Face for their contributions to open-source AI development.
